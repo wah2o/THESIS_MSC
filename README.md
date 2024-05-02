@@ -1,2 +1,2 @@
 # THESIS_MSC
-CSA and PSO code
+CSA, PSO and other metaheuristic simulation codes for IEEE 33 bus system
